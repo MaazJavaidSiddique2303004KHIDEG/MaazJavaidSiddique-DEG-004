@@ -1,0 +1,24 @@
+commit 6c2d02706ff38cacd770bd54f54096d14898ada9
+Merge: 5bc5733 d0613c9
+Author: talha6003 <muhammadtalha856@gmail.com>
+Date:   Wed Apr 5 14:08:07 2023 +0500
+
+    Resolved the conflicts and merged.
+
+commit d0613c9500c94b58705de3d753d2084191b99841
+Author: talha6003 <muhammadtalha856@gmail.com>
+Date:   Wed Apr 5 14:04:47 2023 +0500
+
+    Added Even numbers in numbers.txt in Even branch.
+
+commit 5bc573341f0c36e0099fa86883f8066f18ab7ae5
+Author: talha6003 <muhammadtalha856@gmail.com>
+Date:   Wed Apr 5 14:03:12 2023 +0500
+
+    Added Odd numbers in numbers.txt in Odd branch.
+
+commit c5cb1f1aa47bad7ca712853545ad657036671e46
+Author: talha6003 <muhammadtalha856@gmail.com>
+Date:   Wed Apr 5 14:01:00 2023 +0500
+
+    Created numbers.txt file in the master branch
